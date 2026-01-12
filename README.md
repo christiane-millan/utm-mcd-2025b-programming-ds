@@ -8,7 +8,9 @@ por: Chistian Millán
 
 ### Contenido
 
-- [Unidad 1. Introducción]()
+- Unidad 1. Introducción
+  - Entornos para la ciencia de datos
+    - [Gestión de entornos Conda]()
 - Unidad 2. Programación básica
   - Programación básica en Python
     - [Listas](./02-intro-programming-ds/02-1-Python/2.1.1-list.ipynb)
