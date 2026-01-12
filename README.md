@@ -10,7 +10,7 @@ por: Chistian Millán
 
 - Unidad 1. Introducción
   - Entornos para la ciencia de datos
-    - [Gestión de entornos Conda]()
+    - [Gestión de entornos Conda](./01-development_enviroment/01-1-conda_enviroments/README.md)
 - Unidad 2. Programación básica
   - Programación básica en Python
     - [Listas](./02-intro-programming-ds/02-1-Python/2.1.1-list.ipynb)
