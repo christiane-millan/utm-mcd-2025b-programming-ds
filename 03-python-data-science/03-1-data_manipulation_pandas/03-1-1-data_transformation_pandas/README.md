@@ -102,4 +102,4 @@ print(df)
 - `apply` es útil para cálculos personalizados.
 - Es posible realizar cálculos con columnas existentes para crear nuevas columnas.
 
-[`Ejemplo`](./code/1.1.-sort_filter.ipynb) - [`Reto`](./code/1.1.-sort_filter_exercise.ipynb)
+[`Ejemplo`](./code/3-1-1-sort_filter.ipynb) - [`Reto`](./code/1.1.-sort_filter_exercise.ipynb)

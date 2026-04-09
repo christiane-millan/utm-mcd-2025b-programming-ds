@@ -348,4 +348,4 @@ Ventas   50000.0  70000.0   50000   70000
 
 Estas herramientas son esenciales para el análisis exploratorio de datos en ciencia de datos.
 
-[`Ejemplo`](./code/1.2-aggregating_data.ipynb)
+[`Ejemplo`](./code/3-1-2-aggregating_data.ipynb)
